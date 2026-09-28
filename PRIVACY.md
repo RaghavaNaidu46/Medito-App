@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** 7 May 2026
+**Last updated:** 27 September 2026
 
 Medito is built to be private by design.
 
@@ -11,6 +11,15 @@ Medito is built to be private by design.
 ## Data stored on your device
 
 Medito stores your meditation stats — total minutes, total sessions, and current streak — locally on your device using Apple's standard on-device storage. This data never leaves your device and is removed when you delete the app.
+
+## Mindful Phone and Screen Time
+
+Mindful Phone uses Apple's Screen Time (Family Controls) to pause the apps you choose and to show Insights.
+
+- The apps, categories and websites you pick are kept by Apple as private tokens. Medito cannot read them or turn them into app names.
+- Usage numbers (screen time, pickups, notifications) are worked out by Apple's Screen Time report inside a sandboxed extension on your device. Medito never receives them, and nothing is sent anywhere.
+- Your launcher, schedules, daily goal and daily counts (for example, how often you let an urge pass) are stored on your device and are removed when you delete the app.
+- If you describe a goal in words, it is read by Apple Intelligence on your device when available, or by simple rules in the app. It never leaves your device.
 
 ## Network access
 
